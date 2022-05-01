@@ -6,3 +6,5 @@ then this is an example for that. This projects uses a ViewPager2 inside of a Fr
 # ViewPager2
 # FragmentStateAdapter
 # ViewPager.PageTransformer
+
+![alt text](https://github.com/codebyjames/Example-Using-ViewPager2-Slide-Page-Adapter/blob/main/screenshot_viewpager.jpg)
